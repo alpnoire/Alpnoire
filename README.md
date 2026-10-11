@@ -27,8 +27,7 @@ A project exploring network or system intrusion detection. See the repository fo
 Arduino-based experiments including line-following robots, obstacle avoidance, and sensor-driven automation.
 
 **Focus:** Arduino · Embedded Systems · Electronics
-🖐️ HoloHand | Gesture-Controlled 3D Explorer
-
+### 🖐️ [HoloHand | Gesture-Controlled 3D Explorer](https://github.com/alpnoire/HoloHand)
 An interactive 3D application that lets users explore exploded models using real-time hand gestures through a webcam.
 
 - 🧠 **Hand tracking:** MediaPipe Hand Landmarker
@@ -40,7 +39,6 @@ An interactive 3D application that lets users explore exploded models using real
 
 **Tech stack:** JavaScript · MediaPipe · Three.js · Vite
 
-*Repository link coming soon.*
 
 ---
 
